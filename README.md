@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <b>⭐ 点击 <a href="https://github.com/Pangu-Immortal/myllm">Star</a>，关注不迷路 ⭐</b>
+</p>
+
 ```
 ⬆️ (Replace above with your app's name)
 ```
